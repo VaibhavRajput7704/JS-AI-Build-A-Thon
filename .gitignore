@@ -411,3 +411,6 @@ packages/*
 !packages/agent/
 !packages/webapp/
 !packages/webapi/
+genaiscript.d.ts
+tsconfig.json
+jsconfig.json

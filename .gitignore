@@ -410,6 +410,7 @@ packages/*
 # BUT do NOT ignore these specific folders
 !packages/agent/
 !packages/webapp/
+!packages/webapi/
 genaiscript.d.ts
 tsconfig.json
 jsconfig.json
